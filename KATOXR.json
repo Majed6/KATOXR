@@ -1,0 +1,11 @@
+{
+    "file_format_version": "1.0.0",
+    "api_layer": {
+        "name": "XR_APILAYER_KATOXR",
+        "library_path": "./KATOXR.dll",
+        "disable_environment": "DISABLE_KATOXR",
+        "api_version": "1.0",
+        "implementation_version": "1",
+        "description": "KATVR for OpenXR"
+    }
+}
